@@ -21,8 +21,8 @@
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
-    "mongoose": "^6.0.10",
-    "morgan": "^1.10.0",
+    "mongoose": "5.13.11",
+    "morgan": "1.9.1",
     "require-stack": "^1.0.2"
   }
 }
