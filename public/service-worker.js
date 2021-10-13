@@ -2,11 +2,11 @@ const STATIC_BUDGET = "static-budget-v1";
 const BUDGET_DATA = "data-budget-v1";
 const FILES_TO_CACHE = [
    "/",
-   "../index.html",
-   "../manifest.json",
-   "../css/styles.css",
-   "../icons/icon-192x192.png",
-   "../icons/icon-512x512.png",
+   "./index.html",
+   "./manifest.json",
+   "./css/styles.css",
+   "./js/db.js",
+   "./js/index.js"
 ];
 
 // install
